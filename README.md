@@ -1,4 +1,4 @@
-angmax.github.io
+miezekatze.github.io
 ================
 
-github.io page for angmax
+github.io page for miezekatze
